@@ -1,0 +1,4 @@
+ipwhois
+requests
+colorama
+pysocks
