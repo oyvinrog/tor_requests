@@ -12,6 +12,8 @@ response = requests.get('http://httpbin.org/ip')
 Make sure that TOR is installed and running on your machine. If not, you can download it from [here](https://www.torproject.org/download/). TOR should be running when you execute tor_requests
 
 Installation: 
-```bash
-pip install -r requirements.txt
+
 ```
+pip install git+https://github.com/oyvinrog/tor_requests.git
+```
+
